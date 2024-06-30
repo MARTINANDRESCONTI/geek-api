@@ -1,0 +1,46 @@
+{
+    "product": [
+        {
+            "name": "Watch ZTGgd",
+            "price": "280",
+            "imagen": "https://i.postimg.cc/SxG4Cryp/2.jpg",
+            "id": 2
+          },
+          {
+            "name": "Watch ZTGdg",
+            "price": "690",
+            "imagen": "https://i.postimg.cc/g0kWDZJL/3.jpg",
+            "id": 3
+          },
+          {
+            "name": "Watch ZTGgh",
+            "price": "980",
+            "imagen": "https://i.postimg.cc/8zGD73gH/4.jpg",
+            "id": 4
+          },
+          {
+            "name": "Watch ZTG56t",
+            "price": "746",
+            "imagen": "https://i.postimg.cc/DyLnyhH0/5.jpg",
+            "id": 5
+          },
+          {
+            "name": "Watch ZTGg5",
+            "price": "128",
+            "imagen": "https://i.postimg.cc/PfBdjJ60/6.jpg",
+            "id": 6
+          },
+          {
+            "name": "Watch ZTGikuk",
+            "price": "787",
+            "imagen": "https://i.postimg.cc/sXN05BQz/7.jpg",
+            "id": 7
+          },
+          {
+            "name": "Watch ZTGu67",
+            "price": "649",
+            "imagen": "https://i.postimg.cc/44KXqV1z/8.jpg",
+            "id": 8
+          }
+    ]
+}
